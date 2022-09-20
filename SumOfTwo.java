@@ -29,7 +29,7 @@ public class SumOfTwo {
 		}
 	}
 	
-	//2nd approach
+	
 	
 	
 
